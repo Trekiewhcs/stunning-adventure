@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Trekiewhcs/stunning-adventure/static/js/main.981e352b.chunk.js",
+    "main.js.map": "/Trekiewhcs/stunning-adventure/static/js/main.981e352b.chunk.js.map",
+    "runtime-main.js": "/Trekiewhcs/stunning-adventure/static/js/runtime-main.7cc74445.js",
+    "runtime-main.js.map": "/Trekiewhcs/stunning-adventure/static/js/runtime-main.7cc74445.js.map",
+    "static/js/2.7f27d562.chunk.js": "/Trekiewhcs/stunning-adventure/static/js/2.7f27d562.chunk.js",
+    "static/js/2.7f27d562.chunk.js.map": "/Trekiewhcs/stunning-adventure/static/js/2.7f27d562.chunk.js.map",
+    "index.html": "/Trekiewhcs/stunning-adventure/index.html",
+    "static/js/2.7f27d562.chunk.js.LICENSE.txt": "/Trekiewhcs/stunning-adventure/static/js/2.7f27d562.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc74445.js",
+    "static/js/2.7f27d562.chunk.js",
+    "static/js/main.981e352b.chunk.js"
+  ]
+}
